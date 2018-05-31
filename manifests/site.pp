@@ -1,0 +1,3 @@
+node /-ag/ {
+  include testrepo
+}
