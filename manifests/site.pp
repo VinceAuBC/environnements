@@ -1,3 +1,3 @@
 node /-ag/ {
-  include testrepo
+  include role::lamp
 }
